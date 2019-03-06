@@ -1,0 +1,6 @@
+{
+  "oauth": "oauth:token",
+  "bot": "Account Name",
+  "channel": "Channel name",
+  "language": "german or english"
+}
